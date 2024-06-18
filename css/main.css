@@ -3,6 +3,10 @@ body {
   color: #fff;
 }
 
+a {
+  color: #eee;
+}
+
 .reddit-mono-200 {
   font-family: "Reddit Mono", monospace;
   font-optical-sizing: auto;
